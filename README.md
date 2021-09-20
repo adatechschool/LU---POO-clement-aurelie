@@ -1,3 +1,5 @@
-# Level_up_template
+# Level_up_ #7
 
-Ce dépôt vous sert de modèle pour les livrables à produire pendant les projets level up
+PROGRAMMATION ORIENTEE OBJET
+
+>> Etudiée en binôme, sur 4 jours
