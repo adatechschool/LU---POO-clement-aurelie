@@ -1,3 +1,21 @@
 # Expliquer
 
-Notez ici vos éventuelles notes ou retours de l'encadrante
+Concepts
+
+    Encapsulation
+    Abstraction
+    Héritage
+    Polymorphisme
+    Classe vs. Instance
+
+
+
+Éléments de programmation
+
+    Classe
+    this / self
+    Constructeur
+    Méthode
+    Attribut / propriété / membre
+    Interface
+
