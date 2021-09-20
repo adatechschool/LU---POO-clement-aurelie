@@ -3,19 +3,35 @@
 Concepts
 
     Encapsulation
+    Fonctions et variables reliées sont combinées en unité, appelé "objet". Les variables sont alors des "propriétés" (properties), et les fonctions des "méthodes".
+    
     Abstraction
+    Pour faciliter la compréhension, et / ou protéger certaines données, on cache l'implémentation de certains détails
+    Ex en JS : utiliser des variables en let pour limiter le scope
+    
     Héritage
+    Permet d'éliminer du code redondant, en regroupant les fonctions identiques à plusieurs instances, dans la classe parent.
+    
     Polymorphisme
+    Un constructeur ou une fonction peut être adapté en fonction des classes. Favorise la refacto !
+    
     Classe vs. Instance
+    La classe représente l'objet parent, et les instances, les objets qui en dépendent avec tout de même des caractéristiques propres.
 
 
 
 Éléments de programmation
 
     Classe
-    this / self
-    Constructeur
-    Méthode
+    Elle comprend le nom de l'objet, le constructeur qui reprend les propriétés (ou def __init__ en python), et les méthodes (fonctions) communes
+    
+    this / self : definit dans le constructeur (ou def __init__) pour rappeler les propriétés de la classe. JS utilise this, Python self.
+    
+    Constructeur : reprend les propriétés de la classe
+    
+    Méthode : représente les fonctions
+    
     Attribut / propriété / membre
+    
     Interface
 
