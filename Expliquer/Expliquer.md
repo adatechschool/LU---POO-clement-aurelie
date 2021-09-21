@@ -16,7 +16,7 @@ Concepts
     Un constructeur ou une fonction peut être adapté en fonction des classes. Favorise la refacto !
     
     Classe vs. Instance
-    La classe représente l'objet parent, et les instances, les objets qui en dépendent avec tout de même des caractéristiques propres.
+    Il existe différentes strates de classes entre "parent" et "enfant". La classe représente l'objet, et l'instance est l'application.
 
 
 
