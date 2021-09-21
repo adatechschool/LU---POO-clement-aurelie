@@ -31,7 +31,7 @@ Concepts
     
     Méthode : représente les fonctions
     
-    Attribut / propriété / membre
+    Attribut / propriété / membre : -attribut: Caractéristique de la classe  -propriété: variable définie dans une classe
     
-    Interface
+    Interface :  ensemble de méthodes accessibles depuis l'extérieur d'une classe, par lesquelles on peut modifier un objet, ou plus généralement communiquer avec lui.
 
