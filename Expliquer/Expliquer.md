@@ -32,7 +32,11 @@ Concepts
     
     Méthode : représente les fonctions
     
-    Attribut / propriété / membre : -attribut: Caractéristique de la classe  -propriété: variable définie dans une classe
+    Attribut / propriété / membre : synonymes - variables définies dans une classe
     
-    Interface :  squelette de la classe / ensemble des méthodes listé avant qu'elles n'aient été appelées
+    Interface :  squelette de la classe / ensemble des méthodes listé avant qu'elles n'aient été appelées (signature de la méthode)
+ 
+ Mots-clefs
+    
+    "Override" : complète la méthode déclarée dans une classe abstraite (parent)
 
