@@ -10,6 +10,7 @@ Concepts
     Ex en JS : utiliser des variables en let pour limiter le scope
     
     Héritage
+    On peut récupérer les propriétés que d'1 seul parent.
     Permet d'éliminer du code redondant, en regroupant les fonctions identiques à plusieurs instances, dans la classe parent.
     
     Polymorphisme
@@ -33,5 +34,5 @@ Concepts
     
     Attribut / propriété / membre : -attribut: Caractéristique de la classe  -propriété: variable définie dans une classe
     
-    Interface :  ensemble de méthodes accessibles depuis l'extérieur d'une classe, par lesquelles on peut modifier un objet, ou plus généralement communiquer avec lui.
+    Interface :  squelette de la classe / ensemble des méthodes listé avant qu'elles n'aient été appelées
 
